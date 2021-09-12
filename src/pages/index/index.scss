@@ -1,0 +1,33 @@
+.body{
+  margin: 10PX 10PX;
+  .btn-group {
+    margin-top: 10PX;
+    display: flex;
+    .opt-btn {
+      margin-top: 0PX;
+      width: 45%;
+      height: 130PX;
+      line-height: 130PX;
+      font-size: 28PX;
+      font-weight: 500;
+      border: 1PX solid #ccc;
+      background-color: #fff;
+      color: #000;
+      .save{
+      }
+    }
+  }
+  .share-section {
+    margin-top: 10PX;
+    display: flex;
+    padding-bottom: 50PX;
+    .btn {
+      width: 120PX;
+      height: 50PX;
+      line-height: 50PX;
+      border: 1PX solid #ccc;
+      background-color: #fff;
+
+    }
+  }
+}
