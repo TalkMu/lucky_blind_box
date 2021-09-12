@@ -1,0 +1,30 @@
+.card-body{
+  margin: 10PX 30PX;
+  text-align: center;
+  .sex {
+    display: flex;
+    justify-content: space-around;
+    .sex-img {
+      width: 30PX;
+      height: 30PX;
+    }
+  }
+  .age{
+    border-bottom: 1PX solid #ccc;
+    margin: 10PX 0;
+    padding: 10PX;
+    text-align: left;
+  }
+  .wx{
+    border-bottom: 1PX solid #ccc;
+    margin: 10PX 0;
+    padding: 10PX;
+    text-align: left;
+  }
+  .constellation{
+    border-bottom: 1PX solid #ccc;
+    margin: 10PX 0;
+    padding: 10PX;
+    text-align: left;
+  }
+}

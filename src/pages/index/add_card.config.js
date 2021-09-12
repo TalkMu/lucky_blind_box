@@ -1,3 +1,3 @@
 export default {
-  navigationBarTitleText: 'add'
+  navigationBarTitleText: '发布卡片'
 }
